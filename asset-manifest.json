@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HarshalPatel1972/Sitara/static/css/main.2555e6a2.css",
+    "main.js": "/HarshalPatel1972/Sitara/static/js/main.93132e35.js",
+    "static/js/453.d7525211.chunk.js": "/HarshalPatel1972/Sitara/static/js/453.d7525211.chunk.js",
+    "static/media/logo.png": "/HarshalPatel1972/Sitara/static/media/logo.1bd270bd6c797ddddce6.png",
+    "index.html": "/HarshalPatel1972/Sitara/index.html",
+    "main.2555e6a2.css.map": "/HarshalPatel1972/Sitara/static/css/main.2555e6a2.css.map",
+    "main.93132e35.js.map": "/HarshalPatel1972/Sitara/static/js/main.93132e35.js.map",
+    "453.d7525211.chunk.js.map": "/HarshalPatel1972/Sitara/static/js/453.d7525211.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2555e6a2.css",
+    "static/js/main.93132e35.js"
+  ]
+}
